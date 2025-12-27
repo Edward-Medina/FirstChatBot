@@ -1,0 +1,31 @@
+Company Information
+-------------------
+
+About Our Company:
+We are TechSolutions Inc., a leading provider of innovative software solutions established in 2015. 
+Our headquarters is located in San Francisco, California.
+
+Our Services:
+1. Cloud Computing Solutions
+2. AI and Machine Learning Consulting
+3. Custom Software Development
+4. Data Analytics Services
+5. Cybersecurity Solutions
+
+Business Hours:
+Monday - Friday: 9:00 AM - 6:00 PM PST
+Saturday: 10:00 AM - 4:00 PM PST
+Sunday: Closed
+
+Contact Information:
+Email: support@techsolutions.com
+Phone: (555) 123-4567
+Address: 123 Tech Street, San Francisco, CA 94105
+
+Pricing:
+- Basic Plan: $99/month
+- Professional Plan: $299/month
+- Enterprise Plan: Custom pricing (contact sales)
+
+Support:
+We offer 24/7 support for Enterprise customers and business hours support for Basic and Professional plans.
